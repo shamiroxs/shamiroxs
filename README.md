@@ -12,6 +12,7 @@
   <a href="mailto:shamirkolakkadan26@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/> 
   </a>
+  <img src="https://komarev.com/ghpvc/?username=shamiroxs&style=flat-square&color=blue" alt=""/>
 </div>
 
 ### Hi there 👋
