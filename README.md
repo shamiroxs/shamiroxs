@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<div id="header" align="center"> 
+<img src="https://giphy.com/gifs/CapgeminiIndia-coding-techchallenge2020-techchallenge-u2pmTWUi0MXjyrMaVj" width="100"/> 
+</div>
+
 <!--
 **shamiroxs/shamiroxs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
