@@ -9,6 +9,9 @@
   <a href="https://www.instagram.com/hola.shamir/">
   <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
+  <a href="mailto:shamirkolakkadan26@sample.com">
+  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/> 
+  </a>
 </div>
 
 ### Hi there 👋
