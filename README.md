@@ -21,7 +21,7 @@
   </h1>
 </div>
 
-### Hi
+### 
 
 <!--
 **shamiroxs/shamiroxs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
