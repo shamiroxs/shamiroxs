@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div id="header" align="center"> 
-<img src="https://giphy.com/gifs/CapgeminiIndia-coding-techchallenge2020-techchallenge-u2pmTWUi0MXjyrMaVj" width="100"/> 
+<img src="https://media3.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=6c09b95214466fe22da86f075da099d4b25a4ac5b75418a9&rid=giphy.gif&ct=g" width="100"/> 
 </div>
 
 <!--
