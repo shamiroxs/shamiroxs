@@ -22,7 +22,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media2.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif?cid=6c09b95207e6aea8d159edea045069d193ac1c6a9ee2ad41&rid=giphy.gif&ct=g" width="600" height="300"/>
+  <img src="https://giphy.com/gifs/kroppa-stayhome-homeoffice-evdekal-UuZby4g2Q9vq8q2R8B&ct=g" width="600" height="300"/>
 </div>
 
 ### 
