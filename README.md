@@ -29,6 +29,9 @@
 
 ### :man_technologist: About Me :
 
+I am a Competitive Coder
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+from India.
 
 <!--
 **shamiroxs/shamiroxs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
