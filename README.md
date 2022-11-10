@@ -33,13 +33,13 @@ I am a Competitive Coder
   <img src="https://media3.giphy.com/media/2uxxXyTRFgIJaOZJTb/giphy.gif?cid=82a1493bpekbir5sqzslewwropjx9vuooiqol3l48w1khhnf&rid=giphy.gif&ct=gf&ct=g" width="15"> 
 from India.
 
-- :telescope: I'm currently Btech CSE student at SCT Engineering College, Trivandrum. 
+- :telescope: I'm Currently Btech CSE Student At SCT Engineering College, Trivandrum. 
 
-- :seedling: Exploring Digital Marketing.
+- :seedling: Exploring Digital Marketing, Stock Marketing.
 
 - :zap: In my free time, I watch CS50x and Ethical Hacking Classes.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shamir-ashraf-31ab10254)
+- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:shamirkolakkadan26@gmail.com)
 
 <!--
 **shamiroxs/shamiroxs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
