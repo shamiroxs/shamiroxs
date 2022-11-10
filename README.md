@@ -41,6 +41,14 @@ from India.
 
 - :mailbox:How to reach me:  [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:shamirkolakkadan26@gmail.com)
 
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;/>
+<div/>
+
 <!--
 **shamiroxs/shamiroxs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
