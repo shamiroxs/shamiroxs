@@ -22,7 +22,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media3.giphy.com/media/26SdS6M9jzxdqq72JU/giphy.gif?cid=6c09b952a08ac9ab7a0b7e0b5878a4f78ed79eda73e2e8e2&rid=giphy.gif&ct=g" width="600" height="300"/>
+  <img src="https://media3.giphy.com/media/26SdS6M9jzxdqq72JU/giphy.gif?cid=6c09b952a08ac9ab7a0b7e0b5878a4f78ed79eda73e2e8e2&rid=giphy.gif&ct=g"/>
 </div>
 
 ### 
