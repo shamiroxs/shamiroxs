@@ -21,6 +21,10 @@
   </h1>
 </div>
 
+<div align="center">
+  <img src="Cat Love GIF by Scaler https://media2.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif?cid=6c09b95207e6aea8d159edea045069d193ac1c6a9ee2ad41&rid=giphy.gif&ct=g" width="600" height="300"/>
+</div>
+
 ### 
 
 <!--
