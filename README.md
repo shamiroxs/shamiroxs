@@ -37,9 +37,9 @@ from India.
 
 - :seedling: Exploring Digital Marketing, Stock Marketing.
 
-- :zap: In my free time, I watch CS50x and Ethical Hacking Classes.
+- :weight_lifting: In my free time, I watch CS50x and Ethical Hacking Classes.
 
-- :: Have interest on :
+- :zap: Have interest on :
 
 • Debugging 
 • Software Creating 
@@ -56,7 +56,7 @@ from India.
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="Html5" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="Html5" width="40" height="40"/>&nbsp;
 <div/>
 
 ---
