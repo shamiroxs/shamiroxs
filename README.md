@@ -39,6 +39,14 @@ from India.
 
 - :zap: In my free time, I watch CS50x and Ethical Hacking Classes.
 
+- :: Have interest on :
+
+• Debugging 
+• Software Creating 
+• Cyber Security 
+• Game, App, Developing 
+• Cloud Computing
+
 - :mailbox: How to reach me :  [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:shamirkolakkadan26@gmail.com)
 
 ---
