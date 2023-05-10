@@ -33,7 +33,7 @@ I am a Competitive Coder
   <img src="https://media3.giphy.com/media/2uxxXyTRFgIJaOZJTb/giphy.gif?cid=82a1493bpekbir5sqzslewwropjx9vuooiqol3l48w1khhnf&rid=giphy.gif&ct=gf&ct=g" width="15"> 
 from India.
 
-- :telescope: I'm Currently Btech CSE Student At SCT Engineering College, Trivandrum. 
+- :telescope: I'm Currently Btech CSE Student At MA College of Engineering, Ernakulam. 
 
 - :seedling: Exploring Digital Marketing, Stock Marketing.
 
