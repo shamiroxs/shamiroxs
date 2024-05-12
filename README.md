@@ -37,7 +37,7 @@ from India.
 
 - :seedling: Exploring Digital Marketing, Stock Marketing.
 
-- :weight_lifting: In my free time, I watch CS50x and Ethical Hacking Classes.
+- :weight_lifting: In my free time, I do some nptel.courses
 
 - :zap: Have interest on :
 
