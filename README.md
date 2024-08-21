@@ -7,9 +7,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>  
   <a href="https://www.instagram.com/hola.shamir/">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
   </a>
-  <a href="mailto:shamirkolakkadan26@gmail.com">
+  <a href="https://wa.me/919544123218">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/> 
   </a>
   <br>
@@ -30,7 +30,7 @@
 ### :man_technologist: About Me :
 
 I am a Data Enthusiast
-  <img src="https://media3.giphy.com/media/2uxxXyTRFgIJaOZJTb/giphy.gif?cid=82a1493bpekbir5sqzslewwropjx9vuooiqol3l48w1khhnf&rid=giphy.gif&ct=gf&ct=g" width="15"> 
+  <img src="https://media0.giphy.com/media/RMwYOO5e8pr1lhL8K7/giphy.gif?cid=6c09b9525nkq0rc9rn76tr67myaw5n65g2r5q94szv6h57bg&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="15"> 
 from India.
 
 - :telescope: I'm currently a B.Tech CSE student at MA College of Engineering, Ernakulam.
