@@ -56,21 +56,24 @@ from India.
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="Java" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="Html5" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" width="40" height="40"/>&nbsp;
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Microsoft_Office_Excel_%282013%E2%80%932019%29.svg" title="Excel" alt="Excel" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tableau/tableau-original.svg" title="Tableau" alt="Tableau" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/powerbi/powerbi-original.svg" title="Power BI" alt="Power BI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/excel/excel-original.svg" title="Excel" alt="Excel" width="40" height="40"/>&nbsp;
+  <img href="https://github.com/shamiroxs/image/power-bi.svg" title="Power BI" alt="Power BI" width="40" height="40"/>&nbsp;
 </div>
 
 ---
 
 ### :rocket: Projects :
 
-- **[Film Industry Analysis](https://github.com/shamiroxs/film-industry-analysis)**: Analyzed the BFI Film Industry dataset to uncover trends in film releases and revenue.
+- **[Power BI Dashboard Workshop]([https://github.com/shamiroxs/powerbi-dashboard](https://github.com/shamiroxs/Learning-with-Data/tree/main/02%3A%20PowerBi%20Workshop))**: Created a Power BI dashboard from a workshop by Jatan Shah, including certificate, dashboard file, and notes.
 
-- **[Power BI Dashboard Workshop](https://github.com/shamiroxs/powerbi-dashboard)**: Created a Power BI dashboard from a workshop by Jatan Shah, including certificate, dashboard file, and notes.
+- **[Film Industry Analysis]([https://github.com/shamiroxs/film-industry-analysis](https://github.com/shamiroxs/Learning-with-Data/tree/main/1%3A%20bfi-film-industry-analysis))**: Analyzed the BFI Film Industry dataset to uncover trends in film releases and revenue.
 
 ---
 
