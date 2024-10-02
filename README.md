@@ -82,9 +82,7 @@ from India.
 ### :pushpin: Want to Learn :
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/aws/aws-original.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+
 </div>
 
 ---
