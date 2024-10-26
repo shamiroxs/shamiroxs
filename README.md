@@ -75,7 +75,7 @@ from India.
 
 - **[ABCD Project (in Python)](https://github.com/shamiroxs/abcd)**: Developed an AI-driven dance proficiency assessment system using Python, OpenCV, and MediaPipe to detect body movement, score dance performance in real-time, 	and display a dynamic leaderboard through Pygame to encourage participants to dance with confidence at a tech fest.
 
-- **[Blood Donation Management System](https://github.com/MrCodeCrafter/BDW)**: Implemented a web platform with HTML, CSS, JavaScript, PHP, and MySQL to connect blood donors with hospitals and individuals. 
+- **[Blood Donation Management System](https://github.com/MrCodeCrafter/BDW)**: Implemented a web platform with HTML, CSS, JavaScript, PHP, and MySQL to connect blood donors with hospitals and individuals. The system enables donors to register and search for donation opportunities and allows hospital staff to manage blood inventory and requests, enhancing community participation in blood drives and improving resource management for healthcare facilities.
 
 
 ---
