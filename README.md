@@ -73,9 +73,10 @@ from India.
 
 - **[Power BI Dashboard Workshop](https://github.com/shamiroxs/Learning-with-Data/tree/main/02%3A%20PowerBi%20Workshop)**: Created a Power BI dashboard from a workshop by Jatan Shah, including certificate, dashboard file, and notes.
 
-- **[Film Industry Analysis](https://github.com/shamiroxs/Learning-with-Data/tree/main/1%3A%20bfi-film-industry-analysis)**: Analyzed the BFI Film Industry dataset to uncover trends in film releases and revenue.
+- **[ABCD Project (in Python)](https://github.com/shamiroxs/abcd)**: Developed an AI-driven dance proficiency assessment system using Python, OpenCV, and MediaPipe to detect body movement, score dance performance in real-time, 	and display a dynamic leaderboard through Pygame to encourage participants to dance with confidence at a tech fest.
 
-- **[ABCD Project (in Python)](https://github.com/shamiroxs/abcd)**: Developed an AI-driven dance proficiency assessment system using Python, OpenCV, and MediaPipe to detect body movement, score dance performance in real-time, 	and display a dynamic leaderboard through Pygame to encourage participants to dance with confidence at a tech fest. 
+- **[Blood Donation Management System](https://github.com/MrCodeCrafter/BDW)**: Implemented a web platform with HTML, CSS, JavaScript, PHP, and MySQL to connect blood donors with hospitals and individuals. 
+
 
 ---
 
