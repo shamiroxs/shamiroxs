@@ -77,7 +77,9 @@ from India.
 
 - **[Blood Donation Management System](https://github.com/MrCodeCrafter/BDW)**: Implemented a web platform with HTML, CSS, JavaScript, PHP, and MySQL to connect blood donors with hospitals and individuals. The system enables donors to register and search for donation opportunities and allows hospital staff to manage blood inventory and requests, enhancing community participation in blood drives and improving resource management for healthcare facilities.
 
+- **[Lector Audiobook](https://github.com/shamiroxs/lector)**: Developed an automated eBook-to-video conversion tool using Python, integrating file processing, progress tracking, and multimedia generation with a user-friendly GUI.
 
+  
 ---
 
 ### :pushpin: Want to Learn :
