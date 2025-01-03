@@ -79,6 +79,7 @@ from India.
 
 - **[Lector Audiobook](https://github.com/shamiroxs/lector)**: Developed an automated eBook-to-video conversion tool using Python, integrating file processing, progress tracking, and multimedia generation with a user-friendly GUI.
 
+- **[Lector Subtitle](https://github.com/shamiroxs/lector-subtitle)**: Developed Advanced Subtitle Integration and Video Processing Tool. 
   
 ---
 
