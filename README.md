@@ -80,7 +80,42 @@ from India.
 - **[Lector Audiobook](https://github.com/shamiroxs/lector)**: Developed an automated eBook-to-video conversion tool using Python, integrating file processing, progress tracking, and multimedia generation with a user-friendly GUI.
 
 - **[Lector Subtitle](https://github.com/shamiroxs/lector-subtitle)**: Developed Advanced Subtitle Integration and Video Processing Tool. 
-  
+
+- **[Temperature Conversion Program](https://github.com/shamiroxs/PRODIGY_SD_01)**:  
+  Developed a Python application to convert temperatures between Celsius, Fahrenheit, and Kelvin scales. Implemented a user-friendly interface to facilitate seamless conversions for educational purposes.
+
+- **[Guessing Game](https://github.com/shamiroxs/PRODIGY_SD_02)**:  
+  Created an interactive Python-based guessing game where users attempt to guess a randomly generated number within a specified range. Enhanced user engagement through iterative feedback and adjustable difficulty levels.
+
+- **[Simple Contact Management System](https://github.com/shamiroxs/PRODIGY_SD_03)**:  
+  Designed a command-line contact management system using Python. Enabled users to add, view, update, and delete contact information, demonstrating proficiency in data storage and retrieval operations.
+
+- **[Sudoku Solver](https://github.com/shamiroxs/PRODIGY_SD_04)**:  
+  Developed a Python-based application capable of solving Sudoku puzzles from image inputs. Utilized image processing techniques and backtracking algorithms to extract and solve the puzzle, presenting the solution through a graphical user interface.
+
+- **[Web Scraping Tool](https://github.com/shamiroxs/PRODIGY_SD_05)**:  
+  Built an interactive web scraping tool using Python and Pygame. Allowed users to input URLs or keywords to scrape product data, including titles, prices, and ratings, from e-commerce websites. Implemented dynamic UI transitions and CSV export functionality for data analysis.
+
+---
+
+### **Internship**
+
+**Software Development Intern** – InfoTech Prodigy (1 month)
+
+- Completed five diverse projects demonstrating expertise in Python, software development, and data processing:
+
+  1. **Temperature Conversion Program**: Developed a user-friendly application for temperature conversions. [GitHub Link](https://github.com/shamiroxs/PRODIGY_SD_01)
+
+  2. **Guessing Game**: Created an interactive number guessing game to enhance user engagement. [GitHub Link](https://github.com/shamiroxs/PRODIGY_SD_02)
+
+  3. **Simple Contact Management System**: Designed a command-line tool for managing contact information efficiently. [GitHub Link](https://github.com/shamiroxs/PRODIGY_SD_03)
+
+  4. **Sudoku Solver**: Built an application to solve Sudoku puzzles using image processing and algorithms. [GitHub Link](https://github.com/shamiroxs/PRODIGY_SD_04)
+
+  5. **Web Scraping Tool**: Developed a tool to scrape and export product data from websites. [GitHub Link](https://github.com/shamiroxs/PRODIGY_SD_05)
+
+- Gained experience in modular programming, debugging, and deploying solutions in real-world scenarios.
+
 ---
 
 ### :pushpin: Want to Learn :
