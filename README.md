@@ -80,22 +80,7 @@ from India.
 - **[Lector Audiobook](https://github.com/shamiroxs/lector)**: Developed an automated eBook-to-video conversion tool using Python, integrating file processing, progress tracking, and multimedia generation with a user-friendly GUI.
 
 - **[Lector Subtitle](https://github.com/shamiroxs/lector-subtitle)**: Developed Advanced Subtitle Integration and Video Processing Tool. 
-
-- **[Temperature Conversion Program](https://github.com/shamiroxs/PRODIGY_SD_01)**:  
-  Developed a Python application to convert temperatures between Celsius, Fahrenheit, and Kelvin scales. Implemented a user-friendly interface to facilitate seamless conversions for educational purposes.
-
-- **[Guessing Game](https://github.com/shamiroxs/PRODIGY_SD_02)**:  
-  Created an interactive Python-based guessing game where users attempt to guess a randomly generated number within a specified range. Enhanced user engagement through iterative feedback and adjustable difficulty levels.
-
-- **[Simple Contact Management System](https://github.com/shamiroxs/PRODIGY_SD_03)**:  
-  Designed a command-line contact management system using Python. Enabled users to add, view, update, and delete contact information, demonstrating proficiency in data storage and retrieval operations.
-
-- **[Sudoku Solver](https://github.com/shamiroxs/PRODIGY_SD_04)**:  
-  Developed a Python-based application capable of solving Sudoku puzzles from image inputs. Utilized image processing techniques and backtracking algorithms to extract and solve the puzzle, presenting the solution through a graphical user interface.
-
-- **[Web Scraping Tool](https://github.com/shamiroxs/PRODIGY_SD_05)**:  
-  Built an interactive web scraping tool using Python and Pygame. Allowed users to input URLs or keywords to scrape product data, including titles, prices, and ratings, from e-commerce websites. Implemented dynamic UI transitions and CSV export functionality for data analysis.
-
+ 
 ---
 
 ### **Internship**
