@@ -35,7 +35,7 @@ from India.
 
 - :telescope: I'm currently a B.Tech CSE student at MA College of Engineering, Ernakulam.
 
-- :bar_chart: I'm passionate about Data Analysis, Business Intelligence, and uncovering insights from data.
+- :bar_chart: I'm passionate about Data Analysis, Software developing, Business Intelligence.
 
 - :seedling: Exploring advanced data analysis techniques, SQL, and Power BI.
 
@@ -43,7 +43,7 @@ from India.
 
   • Data Visualization
 
-  • Predictive Analytics
+  • Software Development
 
   • Machine Learning
 
