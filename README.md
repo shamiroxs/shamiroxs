@@ -14,7 +14,7 @@
   </a>
 
 <a href="https://shamir-ashraf.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=internet-explorer&logoColor=white&color=FFD700" alt="Portfolio Badge"/> 
+    <img src="https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=fly.io&logoColor=white&color=FFD700" alt="Portfolio Badge"/> 
   </a>
   
   <br>
