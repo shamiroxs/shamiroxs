@@ -2,6 +2,8 @@
   <img src="https://media3.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=6c09b95214466fe22da86f075da099d4b25a4ac5b75418a9&rid=giphy.gif&ct=g" width="100"/> 
 </div>
 
+<br>
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/shamir-ashraf-31ab10254">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -77,9 +79,11 @@ from India.
 
 ### :rocket: Projects :
 
-- **[Power BI Dashboard Workshop](https://github.com/shamiroxs/Learning-with-Data/tree/main/02%3A%20PowerBi%20Workshop)**: Created a Power BI dashboard from a workshop by Jatan Shah, including certificate, dashboard file, and notes.
+- **[Shamir’s Balloon (3D Interactive Portfolio)](https://github.com/shamiroxs/shamiroxs.github.io)**: Built with Three.js, this game-like portfolio lets users navigate as a balloon through an interactive 3D world. It features **mini-games, skin customization, a power station effect, dark mode, immersive sound effects, and project portals**. Social links, resume download, and UPI/Buy Me a Coffee integrations enhance accessibility, while a **shareable QR code** simplifies portfolio distribution.
 
 - **[ABCD Project (in Python)](https://github.com/shamiroxs/abcd)**: Developed an AI-driven dance proficiency assessment system using Python, OpenCV, and MediaPipe to detect body movement, score dance performance in real-time, 	and display a dynamic leaderboard through Pygame to encourage participants to dance with confidence at a tech fest.
+
+- **[Power BI Dashboard Workshop](https://github.com/shamiroxs/Learning-with-Data/tree/main/02%3A%20PowerBi%20Workshop)**: Created a Power BI dashboard from a workshop by Jatan Shah, including certificate, dashboard file, and notes.
 
 - **[Blood Donation Management System](https://github.com/MrCodeCrafter/BDW)**: Implemented a web platform with HTML, CSS, JavaScript, PHP, and MySQL to connect blood donors with hospitals and individuals. The system enables donors to register and search for donation opportunities and allows hospital staff to manage blood inventory and requests, enhancing community participation in blood drives and improving resource management for healthcare facilities.
 
