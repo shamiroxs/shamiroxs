@@ -7,14 +7,14 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>  
   <a href="https://wa.me/919544123218">
-    <img src="https://img.shields.io/badge/whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
+    <img src="https://img.shields.io/badge/whatsapp-amber?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
   </a>
   <a href="mailto:shamirkolakkadan26@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/> 
   </a>
 
 <a href="https://shamir-ashraf.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=fly.io&logoColor=white&color=FFD700" alt="Portfolio Badge"/> 
+    <img src="https://img.shields.io/badge/Portfolio-ffd700?style=for-the-badge&logo=fly.io&logoColor=black" alt="Portfolio Badge"/> 
   </a>
   
   <br>
