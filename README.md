@@ -12,6 +12,11 @@
   <a href="mailto:shamirkolakkadan26@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/> 
   </a>
+
+<a href="https://shamir-ashraf.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=internet-explorer&logoColor=white&color=FFD700" alt="Portfolio Badge"/> 
+  </a>
+  
   <br>
   <img src="https://komarev.com/ghpvc/?username=shamiroxs&style=flat-square&color=blue" alt=""/>
   <br>
