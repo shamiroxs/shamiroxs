@@ -37,7 +37,7 @@
 
 I'm **Shamir Ashraf**, a B.Tech Computer Science student who loves blending creativity and code to build immersive experiences and smart tools.
 
-- **Passion Projects:** From AI dance judges to 3D portfolios, I enjoy working where logic meets aesthetics.
+- **Passion Projects:** From AI dance judges to 3D portfolio, I enjoy working where logic meets aesthetics.
 - **Current Focus:** Creative development, real-time systems, automation, and full-stack magic.
 - **Always exploring:** How to make tech feel fun, useful, and futuristic.
 
