@@ -74,15 +74,6 @@ I'm **Shamir Ashraf**, a B.Tech Computer Science student who loves blending crea
 - **[Lector Audiobook](https://github.com/shamiroxs/lector)**  
   Python-based tool that converts eBooks to narrated videos with subtitles, UI for file processing, and clean progress tracking.
 
-- **[Lector Subtitle](https://github.com/shamiroxs/lector-subtitle)**  
-  A video enhancement tool with auto-subtitle integration and customizable text animation.
-
-- **[Blood Donation Management System](https://github.com/MrCodeCrafter/BDW)**  
-  Full-stack platform to connect donors with hospitals, built with HTML, CSS, JavaScript, PHP, and MySQL.
-
-- **[Power BI Workshop Dashboard](https://github.com/shamiroxs/Learning-with-Data/tree/main/02%3A%20PowerBi%20Workshop)**  
-  Dashboard built during a live Power BI workshop. Includes visuals, notes, and certification.
-
 ---
 
 ### :briefcase: Internship – InfoTech Prodigy
