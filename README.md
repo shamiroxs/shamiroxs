@@ -68,11 +68,11 @@ I'm **Shamir Ashraf**, a B.Tech Computer Science student who loves blending crea
 - **[Deepfake Detection Bot](https://github.com/shamiroxs/deepfake-bot)**  
   Built with PyTorch (EfficientNetV2), MTCNN, and OpenCV. Uses Google Cloud (Flask + Pub/Sub) and Facebook Graph API for real-time inference. It detects manipulated videos and helps verify authenticity.
 
-- **[ABCD Project (AI Dance Judge)](https://github.com/shamiroxs/abcd)**  
-  A dance scoring system using OpenCV + MediaPipe to evaluate performance in real time. Built with Pygame to display scores dynamically and used in a college tech fest.
-
 - **[Lector Audiobook](https://github.com/shamiroxs/lector)**  
   Python-based tool that converts eBooks to narrated videos with subtitles, UI for file processing, and clean progress tracking.
+
+- **[CODE: A Real-Time Web-Based Multiplayer Card Game](https://github.com/shamiroxs/code/tree/master)**  
+  A real-time multiplayer card game built using Django, JavaScript. The game supports real-time play with room-based coordination, turn handling, and game state persistence.
 
 ---
 
