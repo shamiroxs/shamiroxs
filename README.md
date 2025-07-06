@@ -62,6 +62,9 @@ I'm **Shamir Ashraf**, a B.Tech Computer Science student who loves blending crea
 
 ### :rocket: Featured Projects
 
+- **[EmberLands: The Last Flame](https://github.com/shamiroxs/EmberLands)**  
+  A browser-based 3D multiplayer fantasy RPG built with Three.js, Cannon.js, and WebSockets. Players explore a mystical world, challenge each other to real-time duels, and experience physics-based combat.
+
 - **[Shamir’s Balloon – 3D Interactive Portfolio](https://github.com/shamiroxs/shamiroxs.github.io)**  
   A game-style portfolio built with Three.js and WebGL. Navigate as a balloon through mini-games, access project portals, skin customizations, dark mode, UPI support, and a QR code to share it easily.
 
